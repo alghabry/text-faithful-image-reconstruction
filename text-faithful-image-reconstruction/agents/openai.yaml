@@ -1,0 +1,7 @@
+interface:
+  display_name: "Text-Faithful Image Reconstruction"
+  short_description: "Rebuild scans with exact text fidelity"
+  default_prompt: "Use $text-faithful-image-reconstruction to reconstruct this scanned page into a clean print-ready image while preserving every readable character, layout detail, table, label, illustration, and page number exactly."
+
+policy:
+  allow_implicit_invocation: true
