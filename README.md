@@ -1,5 +1,7 @@
 # Text-Faithful Image Reconstruction
 
+[![skills.sh](https://skills.sh/b/alghabry/text-faithful-image-reconstruction)](https://skills.sh/alghabry/text-faithful-image-reconstruction)
+
 A Codex skill for reconstructing scanned pages and document-like images into clean, print-ready outputs while preserving exact readable text, layout, typography, tables, labels, page numbers, and illustrations.
 
 This is not a generic image enhancer. It is a reconstruction protocol for pages where content fidelity matters.
